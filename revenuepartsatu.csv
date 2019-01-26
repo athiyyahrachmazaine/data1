@@ -1,0 +1,11 @@
+OrderSource,DiscountCode,Region,Revenue
+google,codeA,Jakarta,2000000
+event,codeA,Jakarta,2000000
+newsletter,codeB,Bandung,2500000
+direct,codeB,Bandung,2500000
+google,codeA,Bali,4000000
+event,codeA,Bali,4000000
+newsletter,codeA,Jakarta,2750000
+direct,codeB,Jakarta,2750000
+google,codeA,Bandung,3000000
+event,codeA,Bandung,3000000
